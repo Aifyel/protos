@@ -1,3 +1,3 @@
-module protobuff
+module protos
 
 go 1.25
